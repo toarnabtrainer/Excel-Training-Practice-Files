@@ -5,6 +5,13 @@ https://github.com/toarnabtrainer/Excel-Training-Classwork-Files<br>
 **or**<br>
 https://tinyurl.com/ys26jd6z
 
+<hr>
+Participants can redeem the code from this link: https://learn.microsoft.com/en-us/users/me/achievements?WT.mc_id=ilt_partner_webpage_wwl&ocid=6748417&redeem=GVN7R7<br>
+The benefit for them is that once they have their MS Learn account, they can study any technology and their achievements will be added to the same profile should they decide to give any certification exam in future.
+<hr>
+![image](https://github.com/toarnabtrainer/Excel-Training-Practice-Files/assets/111301975/49d5b5fe-2857-4a74-b118-b3bd0860c77b)
+<hr>
+
 **GMeet Link:**<br>
 https://meet.google.com/ugx-iskt-vbc
 
