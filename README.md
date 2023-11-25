@@ -1,7 +1,7 @@
 # Excel-Training-Practice-Files
 
 **GitHub Link:**<br>
-https://github.com/toarnabtrainer/Excel-Training-Classwork-Files<br>
+https://github.com/toarnabtrainer/Excel-Training-Practice-Files
 **or**<br>
 https://tinyurl.com/ys26jd6z
 
@@ -9,13 +9,6 @@ https://tinyurl.com/ys26jd6z
 https://bit.ly/34f29Dk  or<br>
 **Training File One Drive Link:**<br>
 https://bit.ly/3eRH70f
-
-<hr>
-Participants can redeem the code from this link: https://learn.microsoft.com/en-us/users/me/achievements?WT.mc_id=ilt_partner_webpage_wwl&ocid=6748417&redeem=GVN7R7<br>
-The benefit for them is that once they have their MS Learn account, they can study any technology and their achievements will be added to the same profile should they decide to give any certification exam in future.
-<hr>
-
-![image](https://github.com/toarnabtrainer/Excel-Training-Practice-Files/assets/111301975/a7e2a8f6-3f8d-4789-9f15-919f59a48e39)
 
 <hr>
 
